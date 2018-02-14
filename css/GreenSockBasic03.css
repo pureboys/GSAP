@@ -1,0 +1,20 @@
+.wrapper{
+
+}
+
+.list {
+    margin-left: 100px;
+}
+h1 {
+    margin-left: 100px;
+}
+
+.list li {
+    width: 500px;
+    list-style: none;
+    padding: 10px;
+    background-color:green;
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 10px;
+}
